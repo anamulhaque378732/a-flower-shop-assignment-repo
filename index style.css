@@ -1,37 +1,23 @@
 
 body{
 font-style: normal;
-
 }
-
-
-
 .main-div{
-
     display: flex;
     background:#E554731A;
 padding-left: 140px;
 padding-right: 120px;
-
 }
 .header1{
 margin-top: 100px;
 text-align: center;
 margin-right: 50px;
 margin-bottom: 50px;
-
 }
-
-
-
-
 .header-title{
     color: #272727;
     font-size: 40px;
     margin-bottom: 32px;
-    
-    
-
 }
 .header-description{
   color:  #27272799;
@@ -44,12 +30,9 @@ margin-bottom: 50px;
     background: #E55473; 
     font-size: 20px;
    color: white;
-    
+    padding: 10px;
     font-weight: 700;
 }
-
-
-
 .header2{
 margin-bottom: 0px;
 margin-top: 100px;
@@ -59,21 +42,16 @@ margin-top: 100px;
     text-align: center;
     margin-left: 400px;
     margin-right: 400px;
+    margin-bottom: 30px;
 }
 .main-header-title{
     color: #272727;
-     
-  
     font-size: 40px  
 }
-
-
 .main-header-para{
     font-size: 18px;
    color:#27272799;
-
     font-weight: 400;
-
 }
 .main-div2{
     display: flex;
@@ -85,63 +63,50 @@ text-align: center;
 background-color:#A7216226;
 margin-right: 15px;
 border-radius:250px 250px 0px 0px ;
-
-
 }
 .main-div2-sub2{
 background-color:#0597A026;
 width: 350px; height: 500px;
 margin-right: 15px;
 border-radius: 250px 250px 0px 0px;
-
-
 }
 .main-div2-sub3{
 background-color:#477D1126 ;
 border-radius: 250px 250px 0px 0px;
 width: 350px; height: 500px;
-
 }
-.flower-title{
-    margin-top: 120px;
+.flower-title1{
+    margin-top: 35px;
 }
 .flower-title2{
-    margin-top: 180px;
+    margin-top: 35px;
 }
-
-
 
 .div2-flower{
     margin-bottom: 0px;
 text-align: center;
-padding: 15px 15px 0px 15px;
-
+padding: 100px 15px 0px 15px;
+width: 300px; height:400px ;
 }
 .flower-title3{
-    margin-top: 75px;
+    margin-top: 32px;
 }
 .main-div3{
-
-    margin: 300px 240px 300px 240px;
+border-radius: 8px;
+    margin: 150px 240px 150px 240px;
 display: flex;
 background-color:#2727270D;
 padding: 20px 30px 20px 70px;
-
 }
-
 .main-div3-img{
     margin-right: 15px;
 }
 .main-div4{ background:#E554731A;
 display: flex;
 text-align: center;
-
 }
 .main-div4-1{
 padding: 200px  80px 150px 120px;
-
-
-
 }
 .main-div4-title{
     color: #272727;
@@ -149,8 +114,8 @@ padding: 200px  80px 150px 120px;
     
     font-weight: 800;
 
-} .span1{
-
+} 
+.span1{
     color:#E55473;
 }
 .main-div4-description{
@@ -160,27 +125,19 @@ padding: 200px  80px 150px 120px;
     font-size: 18px;
 
     font-weight: 400;
-
 }
 .main-div4-2{
-
     padding:100px 100px 100px 50px;
 }
 .div5{
 text-align: center;
 margin: 100px 300px 40px 300px; 
-
-
 }
 .div5-title{
     color: #272727;
     margin-bottom: 20px;
-    
     font-size: 40px;
-    
     font-weight: 800;
-
-
 }
 .div5-description{
     font-size: 18px;
@@ -192,21 +149,27 @@ color: #27272799;
 display: flex;
 text-align:center;
 margin-left: 240px;
-margin-right: 240px;
+margin-right: 2400px;
 margin-bottom: 50px;
+}
+#photo1{
+    margin-right: 10px;
+}
+#photo2{
+    margin-right: 10px;
+}
+#photo3{
+    margin-right: 10px;
 }
 .div6-picture{
     width: 200px;
     height: 250px; 
-
 }
 .main-div7{
 text-align: center;
-margin: 0px 210px 100px 240px; 
-
+margin: 0px 180px 100px 230px; 
 background-image: url('Flower Asset/Rectangle 9.png');
 padding: 70px 120px;
-
 border-radius: 8px;
 }
 .div7-title{
@@ -214,17 +177,39 @@ border-radius: 8px;
     font-size: 40px;
     font-weight: 800;
 }
-
 .div7-description{
     font-size: 18px;
     font-weight: 400;
 color: #27272799;
 }
 .form1{
-
     width: 250px;
     height: 40px;
-
+}
+.footer{
+    background-color: #272727;
+    text-align: center;
+padding: 100px 300px;
+} 
+.footer-span{
+    color: #E55473;
+}
+.footer-title{
+    font-size: 48px;
+    font-weight: 800;
+}
+.footer-span2{
+color:white;
+}
+.footer-description{
+font-size: 18px;
+font-weight: 400;
+color: #FFFFFFE5;
+}
+.footer-end{
+    font-size: 16px;
+    font-weight: 400;  
+    color:#FFFFFF66 ;
 }
 
 
