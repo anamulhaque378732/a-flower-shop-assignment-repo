@@ -1,0 +1,69 @@
+
+body{
+font-style: normal;
+
+}
+
+
+
+.main-div{
+
+    display: flex;
+    background:#E554731A;
+padding-left: 140px;
+padding-right: 120px;
+
+}
+.header1{
+margin-top: 150px;
+text-align: center;
+margin-right: 50px;
+margin-bottom: 50px;
+
+}
+
+
+
+
+.header-title{
+    color: #272727;
+    font-size: 80px;
+    margin-bottom: 32px;
+    
+    
+
+}
+.header-description{
+  color:  #27272799;
+  font-size: 18px;
+ margin-bottom: 32px;
+  font-weight: 400;
+}
+.button-primary{
+    border-radius: 5px;
+    background: #E55473; 
+    font-size: 20px;
+   color: white;
+    
+    font-weight: 700;
+}
+.images-header{
+    width: 635px;
+    height: 1030px;
+   
+    
+
+}
+
+
+.header2{
+margin-bottom: 0px;
+margin-top: 150px;
+}
+
+
+
+
+
+
+
